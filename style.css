@@ -8,6 +8,14 @@ body{
     background-position: 100%;
     
 }
+nav{
+    background-color: rgba(0, 0, 0, 0.288);
+}
+.logoaulab{
+    width: 100px;
+    height: 100px;
+}
+
 a:link{
     color: rgb(162, 1, 255);
 }
