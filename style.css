@@ -1,0 +1,37 @@
+body{
+    background-color: #10252b6c;
+    color: #ffffff;
+    background-image:linear-gradient(rgba(70, 65, 65, 0.527),rgba(145, 128, 128, 0.5)), url(https://picsum.photos/seed/picsum/1100/2200);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 100%;
+    
+}
+a:link{
+    color: rgb(162, 1, 255);
+}
+
+a:hover{
+    color: rgb(0, 255, 17);
+    background-color: #ffffff49;
+}
+a:single-button{
+    background-color: rgb(4, 0, 255);
+}
+a:picture-in-picture{
+    background-color: black;
+}
+h1{
+    font-size: 40px;
+    font-family: monospace;
+    color: rgb(2, 2, 2);
+    
+}
+h3{
+    color: rgb(25, 0, 255);
+    font-family: cursive;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
